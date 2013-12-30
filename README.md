@@ -1,4 +1,4 @@
-# SpeedTest.js
+# SpeedTest
 
 Simple benchmark pour nodejs.
 
@@ -6,7 +6,7 @@ Simple benchmark pour nodejs.
 
 _..._
 
-### Example
+### Exemple
 
 ```js
 var SpeedTest = require('SpeedTest');
@@ -32,6 +32,8 @@ Best: Test #2 avec 7793287 tests/s
 ```
 
 ### Références
+
+##### class SpeedTest
 
 ###### Methodes
 
