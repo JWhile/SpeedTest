@@ -1,6 +1,7 @@
 {
     "name": "speedtest",
     "description": "Simple benchmark pour Nodejs",
+    "keywords": ["benchmark", "simple", "speedtest", "performance"],
     "author": "Juloo <juloo.dsi@gmail.com> (https://github.com/JWhile)",
 
     "version": "0.1.0",
