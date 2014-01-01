@@ -1,0 +1,17 @@
+{
+    "name": "speedtest",
+    "description": "Simple benchmark pour Nodejs",
+    "author": "Juloo <juloo.dsi@gmail.com> (https://github.com/JWhile)",
+
+    "version": "0.1.0",
+
+    "main": "SpeedTest",
+
+    "repository": "git://github.com/JWhile/SpeedTest",
+    "homepage": "https://github.com/JWhile/SpeedTest",
+    "bugs": {
+        "url": "https://github.com/JWhile/SpeedTest/issues"
+    },
+
+    "license": "MIT"
+}
